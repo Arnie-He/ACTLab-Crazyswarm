@@ -6,10 +6,4 @@ crazyflies:
 - channel: 101
   id: 2
   initialPosition: [0.5, 0.0, 0.0]
-- channel: 102
-  id: 3
-  initialPosition: [0.0, 0.5, 0.0]
   type: medium
-- channel: 103
-  id: 4
-  initialPosition: [0.5, 0.5, 0.0]
